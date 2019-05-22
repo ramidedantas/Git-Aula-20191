@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Teste Eclipse!!");
 
 		System.out.println("Branch Master - commit 1"); 
+		System.out.println("Branch Master - commit 2"); 
 	}
 
 }
