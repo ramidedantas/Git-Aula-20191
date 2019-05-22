@@ -8,6 +8,8 @@ public class HelloWorld {
 
 		System.out.println("Branch Master - commit 1"); 
 		System.out.println("Branch Master - commit 2"); 
+		System.out.println("Branch Bash - commit 1");
+		System.out.println("Branch Bash - commit 2");
 	}
 
 }
